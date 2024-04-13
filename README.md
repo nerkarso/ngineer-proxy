@@ -11,19 +11,19 @@
 **Shows usage text, as defined in `lib/help.txt`**
 
 ```
-https://ngxproxy.onrender.com
+http://localhost:8080
 ```
 
 **github.com with CORS headers**
 
 ```
-https://ngxproxy.onrender.com/http://github.com
+http://localhost:8080/http://github.com
 ```
 
 **Proxies `https://google.com`**
 
 ```
-https://ngxproxy.onrender.com/google.com:443
+http://localhost:8080/google.com:443
 ```
 
 ## Credits
